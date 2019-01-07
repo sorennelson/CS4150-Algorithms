@@ -1,0 +1,11 @@
+/Users/solosoren/Projects/PS9/PS9/bin/Debug/netcoreapp2.1/PS9.deps.json
+/Users/solosoren/Projects/PS9/PS9/bin/Debug/netcoreapp2.1/PS9.runtimeconfig.json
+/Users/solosoren/Projects/PS9/PS9/bin/Debug/netcoreapp2.1/PS9.runtimeconfig.dev.json
+/Users/solosoren/Projects/PS9/PS9/bin/Debug/netcoreapp2.1/PS9.dll
+/Users/solosoren/Projects/PS9/PS9/bin/Debug/netcoreapp2.1/PS9.pdb
+/Users/solosoren/Projects/PS9/PS9/obj/Debug/netcoreapp2.1/PS9.csprojAssemblyReference.cache
+/Users/solosoren/Projects/PS9/PS9/obj/Debug/netcoreapp2.1/PS9.csproj.CoreCompileInputs.cache
+/Users/solosoren/Projects/PS9/PS9/obj/Debug/netcoreapp2.1/PS9.AssemblyInfoInputs.cache
+/Users/solosoren/Projects/PS9/PS9/obj/Debug/netcoreapp2.1/PS9.AssemblyInfo.cs
+/Users/solosoren/Projects/PS9/PS9/obj/Debug/netcoreapp2.1/PS9.dll
+/Users/solosoren/Projects/PS9/PS9/obj/Debug/netcoreapp2.1/PS9.pdb

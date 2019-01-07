@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{87B46B7A-697C-4723-A281-9CB1CC66CDD1}|Default">
+  <MonoDevelop.Ide.ItemProperties.PS9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PS9/Program.cs">
+    <Files>
+      <File FileName="PS9/Program.cs" Line="48" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
