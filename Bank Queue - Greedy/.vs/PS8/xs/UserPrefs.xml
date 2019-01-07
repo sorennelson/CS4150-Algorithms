@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C927089D-A355-489C-93AC-71163E4D034C}|Default">
+  <MonoDevelop.Ide.ItemProperties.PS8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PS8/Program.cs">
+    <Files>
+      <File FileName="PS8/Program.cs" Line="41" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

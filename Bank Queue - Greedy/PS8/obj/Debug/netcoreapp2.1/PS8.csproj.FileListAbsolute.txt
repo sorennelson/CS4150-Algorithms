@@ -1,0 +1,11 @@
+/Users/solosoren/Projects/PS8/PS8/bin/Debug/netcoreapp2.1/PS8.deps.json
+/Users/solosoren/Projects/PS8/PS8/bin/Debug/netcoreapp2.1/PS8.runtimeconfig.json
+/Users/solosoren/Projects/PS8/PS8/bin/Debug/netcoreapp2.1/PS8.runtimeconfig.dev.json
+/Users/solosoren/Projects/PS8/PS8/bin/Debug/netcoreapp2.1/PS8.dll
+/Users/solosoren/Projects/PS8/PS8/bin/Debug/netcoreapp2.1/PS8.pdb
+/Users/solosoren/Projects/PS8/PS8/obj/Debug/netcoreapp2.1/PS8.csprojAssemblyReference.cache
+/Users/solosoren/Projects/PS8/PS8/obj/Debug/netcoreapp2.1/PS8.csproj.CoreCompileInputs.cache
+/Users/solosoren/Projects/PS8/PS8/obj/Debug/netcoreapp2.1/PS8.AssemblyInfoInputs.cache
+/Users/solosoren/Projects/PS8/PS8/obj/Debug/netcoreapp2.1/PS8.AssemblyInfo.cs
+/Users/solosoren/Projects/PS8/PS8/obj/Debug/netcoreapp2.1/PS8.dll
+/Users/solosoren/Projects/PS8/PS8/obj/Debug/netcoreapp2.1/PS8.pdb
