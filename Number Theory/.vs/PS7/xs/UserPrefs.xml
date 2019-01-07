@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2EA2F2F4-8B92-4E39-BE50-049D785DDF11}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PS7/Program.cs">
+    <Files>
+      <File FileName="PS7/Program.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PS7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/solosoren/Library/Mobile Documents/com~apple~CloudDocs/School/Junior Year/Second Half/Algorithms/PS7/PS7/Program.cs" relfile="PS7/Program.cs" line="14" column="30" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
