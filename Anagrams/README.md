@@ -1,5 +1,5 @@
 # Anagrams
-### Problem: [Mr. Anaga](https://utah.kattis.com/problems/utah.anagram)
-> Given a list of words, find out how many do not have an anagram that is also in the list. 
+### Problem: [Kattis - Mr. Anaga](https://utah.kattis.com/problems/utah.anagram)
+> Given a list of words, return the number of words that do not have an anagram also in the list. For sample input/outputs, view the question on Kattis.
 
 ### Approach
